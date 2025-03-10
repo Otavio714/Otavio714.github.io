@@ -6,6 +6,10 @@
   list-style: none;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #191919;
   color: #ffffff;
@@ -298,10 +302,6 @@ footer p {
   .card {
     width: 90%;
   }
-}
-
-html {
-  scroll-behavior: smooth;
 }
 
 /* Para telas até 480px */
