@@ -300,6 +300,10 @@ footer p {
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Para telas até 480px */
 @media (max-width: 480px) {
   nav {
