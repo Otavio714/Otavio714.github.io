@@ -226,7 +226,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(4,1,8,1) 48%, rgba(54,1
 
 .projetos h2 {
   font-size: 75px;
-  margin: 50px 0 40px;
+  margin: 50px -15px 40px;
 }
 
 .meus-projeto {
