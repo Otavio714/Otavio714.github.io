@@ -1,3 +1,9 @@
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+  
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -218,24 +224,6 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(4,1,8,1) 48%, rgba(54,1
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .projetos h2 {
   font-size: 75px;
   margin: 50px 0 40px;
@@ -363,8 +351,7 @@ footer p {
     font-size: 32px;
   }
   nav ul {
-    gap: 15px;
-    flex-wrap: wrap;
+    display: none;
   }
   nav ul li {
     font-size: 16px;
