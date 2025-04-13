@@ -252,6 +252,12 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(4,1,8,1) 48%, rgba(54,1
   margin: 0 auto;
 }
 
+.image-nutriçao {
+  width: 65%;
+  
+  object-fit: cover;
+}
+
 .card h5 {
   font-size: 24px;
   margin: 10px 0;
